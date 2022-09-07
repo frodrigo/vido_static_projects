@@ -1,0 +1,38 @@
+{
+    "type": "Feature",
+    "properties": {
+        "id": 4713026065,
+        "category": "Projet Transition",
+        "name": "Bordeaux Métropole -  Grand Projet des Villes Rive Droite ",
+        "description": "Projet de cartophie des projets de logements, d'équipements, d'aménagements urbains ou économiques sur la Rive Droite",
+        "website": "https://www.teritorio.fr/projets/la-carte-des-grands-projets-de-la-rive-droite-bordeaux/",
+        "image": [
+            "https://www.surlarivedroite.fr/wp-content/uploads/2020/09/Une-vignette-e1600785542756.jpg"
+        ],
+        "id zone OSM": "",
+        "id poi": "4713026065",
+        "remarque": "il faudrait un polygonne spécifique groupant toutes les villes",
+        "category_ids": "25",
+        "metadata": {
+            "id": 4713026065,
+            "category_ids": [
+                "25"
+            ]
+        },
+        "editorial": {
+            "website:details": "https://www.teritorio.fr/projets/la-carte-des-grands-projets-de-la-rive-droite-bordeaux/",
+            "popup_fields": [
+                {
+                    "fields": "description"
+                }
+            ]
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -0.592236,
+            44.833673
+        ]
+    }
+}

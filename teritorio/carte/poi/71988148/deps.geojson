@@ -1,0 +1,43 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 71988148,
+                "category": "Action",
+                "name": "Médiathèque de Biarritz",
+                "description": "Animation d’une cartopartie avec la médiathèque de Biarritz",
+                "website": "https://www.teritorio.fr/wp-content/uploads/2019/06/IMG_3345.png",
+                "image": [
+                    "https://www.teritorio.fr/wp-content/uploads/2022/07/cartobtz.png"
+                ],
+                "id zone OSM": "",
+                "id poi": "71988148",
+                "remarque": "",
+                "category_ids": "27",
+                "metadata": {
+                    "id": 71988148,
+                    "category_ids": [
+                        "27"
+                    ]
+                },
+                "editorial": {
+                    "website:details": "https://www.teritorio.fr/wp-content/uploads/2019/06/IMG_3345.png",
+                    "popup_fields": [
+                        {
+                            "fields": "description"
+                        }
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.55482,
+                    43.48135
+                ]
+            }
+        }
+    ]
+}

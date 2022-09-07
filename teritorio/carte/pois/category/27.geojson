@@ -1,0 +1,119 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 3129052448,
+                "category": "Action",
+                "name": "Antic Pays-Basque",
+                "description": "Participation – conférences, ateliers – et soutien des rencontres du numériques du Pays Basque ",
+                "website": "https://www.teritorio.fr/projets/atelier-partenariat-public-communs-numeriques-antic-pays-basque-2020-2022/",
+                "image": [
+                    "https://www.teritorio.fr/wp-content/uploads/2022/07/logo-antic-nr.png"
+                ],
+                "id zone OSM": "",
+                "id poi": "3129052448",
+                "remarque": "",
+                "category_ids": "27",
+                "metadata": {
+                    "id": 3129052448,
+                    "category_ids": [
+                        "27"
+                    ]
+                },
+                "editorial": {
+                    "website:details": "https://www.teritorio.fr/projets/atelier-partenariat-public-communs-numeriques-antic-pays-basque-2020-2022/",
+                    "popup_fields": [
+                        {
+                            "fields": "description"
+                        }
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.554281,
+                    43.447545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 3769910090,
+                "category": "Action",
+                "name": "Association OpenStreetMap France",
+                "description": "Participation aux State of the Map à Nantes, et animation de 2 conférences",
+                "website": "https://www.teritorio.fr/projets/notre-participation-aux-states-of-the-map-2022-a-nantes/",
+                "image": [
+                    "https://www.teritorio.fr/wp-content/uploads/2022/07/sotm.jpeg"
+                ],
+                "id zone OSM": "",
+                "id poi": "3769910090",
+                "remarque": "",
+                "category_ids": "27",
+                "metadata": {
+                    "id": 3769910090,
+                    "category_ids": [
+                        "27"
+                    ]
+                },
+                "editorial": {
+                    "website:details": "https://www.teritorio.fr/projets/notre-participation-aux-states-of-the-map-2022-a-nantes/",
+                    "popup_fields": [
+                        {
+                            "fields": "description"
+                        }
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.55129,
+                    47.246253
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 71988148,
+                "category": "Action",
+                "name": "Médiathèque de Biarritz",
+                "description": "Animation d’une cartopartie avec la médiathèque de Biarritz",
+                "website": "https://www.teritorio.fr/wp-content/uploads/2019/06/IMG_3345.png",
+                "image": [
+                    "https://www.teritorio.fr/wp-content/uploads/2022/07/cartobtz.png"
+                ],
+                "id zone OSM": "",
+                "id poi": "71988148",
+                "remarque": "",
+                "category_ids": "27",
+                "metadata": {
+                    "id": 71988148,
+                    "category_ids": [
+                        "27"
+                    ]
+                },
+                "editorial": {
+                    "website:details": "https://www.teritorio.fr/wp-content/uploads/2019/06/IMG_3345.png",
+                    "popup_fields": [
+                        {
+                            "fields": "description"
+                        }
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.55482,
+                    43.48135
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "type": "Feature",
+    "properties": {
+        "id": 3129052448,
+        "category": "Action",
+        "name": "Antic Pays-Basque",
+        "description": "Participation – conférences, ateliers – et soutien des rencontres du numériques du Pays Basque ",
+        "website": "https://www.teritorio.fr/projets/atelier-partenariat-public-communs-numeriques-antic-pays-basque-2020-2022/",
+        "image": [
+            "https://www.teritorio.fr/wp-content/uploads/2022/07/logo-antic-nr.png"
+        ],
+        "id zone OSM": "",
+        "id poi": "3129052448",
+        "remarque": "",
+        "category_ids": "27",
+        "metadata": {
+            "id": 3129052448,
+            "category_ids": [
+                "27"
+            ]
+        },
+        "editorial": {
+            "website:details": "https://www.teritorio.fr/projets/atelier-partenariat-public-communs-numeriques-antic-pays-basque-2020-2022/",
+            "popup_fields": [
+                {
+                    "fields": "description"
+                }
+            ]
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -1.554281,
+            43.447545
+        ]
+    }
+}

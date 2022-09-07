@@ -1,0 +1,30 @@
+{
+    "type": "Feature",
+    "properties": {
+        "id": 3753013237,
+        "image": [
+            null
+        ],
+        "metadata": {
+            "id": 3753013237,
+            "category_ids": [
+                null
+            ]
+        },
+        "editorial": {
+            "website:details": null,
+            "popup_fields": [
+                {
+                    "fields": "description"
+                }
+            ]
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -0.528063,
+            44.852754
+        ]
+    }
+}
