@@ -36,6 +36,7 @@
     {
         "id": 22,
         "parent_id": 2,
+        "selected_by_default": true,
         "menu_group": null,
         "link": null,
         "category": {
@@ -58,6 +59,7 @@
     {
         "id": 23,
         "parent_id": 2,
+        "selected_by_default": true,
         "menu_group": null,
         "link": null,
         "category": {
@@ -80,6 +82,7 @@
     {
         "id": 24,
         "parent_id": 2,
+        "selected_by_default": true,
         "menu_group": null,
         "link": null,
         "category": {
@@ -102,6 +105,7 @@
     {
         "id": 25,
         "parent_id": 2,
+        "selected_by_default": true,
         "menu_group": null,
         "link": null,
         "category": {
@@ -124,6 +128,7 @@
     {
         "id": 26,
         "parent_id": 2,
+        "selected_by_default": true,
         "menu_group": null,
         "link": null,
         "category": {
@@ -146,6 +151,7 @@
     {
         "id": 27,
         "parent_id": 2,
+        "selected_by_default": true,
         "menu_group": null,
         "link": null,
         "category": {

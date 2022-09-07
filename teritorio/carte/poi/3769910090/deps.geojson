@@ -26,7 +26,7 @@
                     "website:details": "https://www.teritorio.fr/projets/notre-participation-aux-states-of-the-map-2022-a-nantes/",
                     "popup_fields": [
                         {
-                            "fields": "description"
+                            "field": "description"
                         }
                     ]
                 },

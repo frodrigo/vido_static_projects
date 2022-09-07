@@ -26,7 +26,7 @@
                     "website:details": "https://www.teritorio.fr/projets/cocm-manche-cartinfo/",
                     "popup_fields": [
                         {
-                            "fields": "description"
+                            "field": "description"
                         }
                     ]
                 },
@@ -25947,7 +25947,7 @@
                     "website:details": "https://www.teritorio.fr/projets/ville-et-ot-danglet/",
                     "popup_fields": [
                         {
-                            "fields": "description"
+                            "field": "description"
                         }
                     ]
                 },

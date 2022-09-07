@@ -26,7 +26,7 @@
                     "website:details": "https://www.teritorio.fr/projets/loti-daire-et-deugenie-le-combo-plan-touristique-utilisation-de-la-carte-web-des-landes/",
                     "popup_fields": [
                         {
-                            "fields": "description"
+                            "field": "description"
                         }
                     ]
                 },

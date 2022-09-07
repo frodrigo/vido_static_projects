@@ -26,7 +26,7 @@
                     "website:details": "https://www.teritorio.fr/projets/un-projet-complet-de-cartographie-web-et-print/",
                     "popup_fields": [
                         {
-                            "fields": "description"
+                            "field": "description"
                         }
                     ]
                 },

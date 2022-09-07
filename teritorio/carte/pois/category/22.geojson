@@ -26,7 +26,7 @@
                     "website:details": "https://www.teritorio.fr/projets/quand-tout-un-departement-travaille-a-sa-cartographie-avec-openstreetmap/",
                     "popup_fields": [
                         {
-                            "fields": "description"
+                            "field": "description"
                         }
                     ]
                 },
@@ -43243,7 +43243,7 @@
                     "website:details": "https://www.teritorio.fr/projets/loti-daire-et-deugenie-le-combo-plan-touristique-utilisation-de-la-carte-web-des-landes/",
                     "popup_fields": [
                         {
-                            "fields": "description"
+                            "field": "description"
                         }
                     ]
                 },
@@ -46888,7 +46888,7 @@
                     "website:details": "https://www.teritorio.fr/projets/maitriser-la-donnee-commerce-pour-repondre-a-la-crise-covid-un-declencheur-pour-une-carte-avec-osm/",
                     "popup_fields": [
                         {
-                            "fields": "description"
+                            "field": "description"
                         }
                     ]
                 },
@@ -47801,7 +47801,7 @@
                     "website:details": "https://www.teritorio.fr/projets/la-carte-au-centre-du-dispositif-daccueil-et-une-demarche-danimation-du-territoire-office-de-tourisme-seignanx-landes/",
                     "popup_fields": [
                         {
-                            "fields": "description"
+                            "field": "description"
                         }
                     ]
                 },
@@ -50782,7 +50782,7 @@
                     "website:details": "https://www.teritorio.fr/projets/la-cartographie-en-pays-tarusate-un-projet-danimation-du-territoire/",
                     "popup_fields": [
                         {
-                            "fields": "description"
+                            "field": "description"
                         }
                     ]
                 },
@@ -56755,7 +56755,7 @@
                     "website:details": "https://www.teritorio.fr/projets/carte-openstreetmap-touristique-bidart/",
                     "popup_fields": [
                         {
-                            "fields": "description"
+                            "field": "description"
                         }
                     ]
                 },
@@ -57736,7 +57736,7 @@
                     "website:details": "https://www.teritorio.fr/projets/un-projet-complet-de-cartographie-web-et-print/",
                     "popup_fields": [
                         {
-                            "fields": "description"
+                            "field": "description"
                         }
                     ]
                 },
@@ -60101,7 +60101,7 @@
                     "website:details": "https://www.teritorio.fr/projets/la-carte-de-mimizan/",
                     "popup_fields": [
                         {
-                            "fields": "description"
+                            "field": "description"
                         }
                     ]
                 },
@@ -67926,7 +67926,7 @@
                     "website:details": "https://www.teritorio.fr/projets/edition-de-plans-touristiques-avec-transfert-de-competences-landes-atlantiques-sud/",
                     "popup_fields": [
                         {
-                            "fields": "description"
+                            "field": "description"
                         }
                     ]
                 },
@@ -76031,7 +76031,7 @@
                     "website:details": "https://www.teritorio.fr/projets/lacculturation-osm-en-pays-basque-fr/",
                     "popup_fields": [
                         {
-                            "fields": "description"
+                            "field": "description"
                         }
                     ]
                 },
@@ -78820,7 +78820,7 @@
                     "website:details": "https://www.teritorio.fr/projets/balades-rando-velo-en-commun-pour-les-4-offices-de-tourisme-du-pays-alo-un-projet-en-partenariat-avec-loopi/",
                     "popup_fields": [
                         {
-                            "fields": "description"
+                            "field": "description"
                         }
                     ]
                 },

@@ -26,7 +26,7 @@
                     "website:details": "https://www.teritorio.fr/projets/une-carte-du-street-art-pour-le-festival-point-de-vue/",
                     "popup_fields": [
                         {
-                            "fields": "description"
+                            "field": "description"
                         }
                     ]
                 },

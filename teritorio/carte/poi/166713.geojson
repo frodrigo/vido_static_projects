@@ -23,7 +23,7 @@
             "website:details": "",
             "popup_fields": [
                 {
-                    "fields": "description"
+                    "field": "description"
                 }
             ]
         },

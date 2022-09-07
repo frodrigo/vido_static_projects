@@ -26,7 +26,7 @@
                     "website:details": "",
                     "popup_fields": [
                         {
-                            "fields": "description"
+                            "field": "description"
                         }
                     ]
                 },
@@ -3067,7 +3067,7 @@
                     "website:details": "https://www.teritorio.fr/projets/un-projet-de-cartographie-dinformation-a-la-population/",
                     "popup_fields": [
                         {
-                            "fields": "description"
+                            "field": "description"
                         }
                     ]
                 },

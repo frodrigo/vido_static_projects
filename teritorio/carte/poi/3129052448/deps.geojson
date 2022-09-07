@@ -26,7 +26,7 @@
                     "website:details": "https://www.teritorio.fr/projets/atelier-partenariat-public-communs-numeriques-antic-pays-basque-2020-2022/",
                     "popup_fields": [
                         {
-                            "fields": "description"
+                            "field": "description"
                         }
                     ]
                 },
