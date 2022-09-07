@@ -1,0 +1,174 @@
+[
+    {
+        "id": 1,
+        "parent_id": null,
+        "menu_group": {
+            "id": 1,
+            "name": {
+                "fr": "Bloc Recherche"
+            },
+            "icon": "teritorio teritorio-camp_site",
+            "color_fill": "#99163a",
+            "color_line": "#99163a",
+            "display_mode": "compact"
+        },
+        "link": null,
+        "category": null,
+        "index_order": 1
+    },
+    {
+        "id": 2,
+        "parent_id": null,
+        "menu_group": {
+            "id": 2,
+            "name": {
+                "fr": "Bloc POI"
+            },
+            "icon": "teritorio teritorio-camp_site",
+            "color_fill": "#99163a",
+            "color_line": "#99163a",
+            "display_mode": "compact"
+        },
+        "link": null,
+        "category": null,
+        "index_order": 2
+    },
+    {
+        "id": 22,
+        "parent_id": 2,
+        "selected_by_default": true,
+        "menu_group": null,
+        "link": null,
+        "category": {
+            "id": 22,
+            "slug": "",
+            "name": {
+                "en": "Tourism Projects",
+                "fr": "Projets tourisme"
+            },
+            "search_indexed": true,
+            "icon": "teritorio teritorio-office",
+            "color_fill": "#e50980",
+            "color_line": "#e50980",
+            "style_merge": false,
+            "zoom": "16",
+            "display_mode": "large"
+        },
+        "index_order": 3
+    },
+    {
+        "id": 23,
+        "parent_id": 2,
+        "selected_by_default": true,
+        "menu_group": null,
+        "link": null,
+        "category": {
+            "id": 23,
+            "slug": "",
+            "name": {
+                "en": "City & Tourism Projects",
+                "fr": "Projets ville & tourisme"
+            },
+            "search_indexed": true,
+            "icon": "teritorio teritorio-extra-town",
+            "color_fill": "#2a62ac",
+            "color_line": "#2a62ac",
+            "style_merge": false,
+            "zoom": "16",
+            "display_mode": "large"
+        },
+        "index_order": 4
+    },
+    {
+        "id": 24,
+        "parent_id": 2,
+        "selected_by_default": true,
+        "menu_group": null,
+        "link": null,
+        "category": {
+            "id": 24,
+            "slug": "",
+            "name": {
+                "en": "City Projects",
+                "fr": "Projets ville"
+            },
+            "search_indexed": true,
+            "icon": "teritorio teritorio-extra-town",
+            "color_fill": "#006660",
+            "color_line": "#006660",
+            "style_merge": false,
+            "zoom": "16",
+            "display_mode": "large"
+        },
+        "index_order": 5
+    },
+    {
+        "id": 25,
+        "parent_id": 2,
+        "selected_by_default": true,
+        "menu_group": null,
+        "link": null,
+        "category": {
+            "id": 25,
+            "slug": "",
+            "name": {
+                "en": "Transition Projects",
+                "fr": "Projets transition"
+            },
+            "search_indexed": true,
+            "icon": "teritorio teritorio-extra-recycling",
+            "color_fill": "#f25c05",
+            "color_line": "#f25c05",
+            "style_merge": false,
+            "zoom": "16",
+            "display_mode": "large"
+        },
+        "index_order": 6
+    },
+    {
+        "id": 26,
+        "parent_id": 2,
+        "selected_by_default": true,
+        "menu_group": null,
+        "link": null,
+        "category": {
+            "id": 26,
+            "slug": "",
+            "name": {
+                "en": "Cultural Projects",
+                "fr": "Projets culturel"
+            },
+            "search_indexed": true,
+            "icon": "teritorio teritorio-extra-recycling",
+            "color_fill": "#f25c05",
+            "color_line": "#f25c05",
+            "style_merge": false,
+            "zoom": "16",
+            "display_mode": "large"
+        },
+        "index_order": 7
+    },
+    {
+        "id": 27,
+        "parent_id": 2,
+        "selected_by_default": true,
+        "menu_group": null,
+        "link": null,
+        "category": {
+            "id": 27,
+            "slug": "",
+            "name": {
+                "en": "Actions",
+                "fr": "Actions"
+            },
+            "search_indexed": true,
+            "icon": "teritorio teritorio-extra-france_services",
+            "color_fill": "#76009e",
+            "color_line": "#76009e",
+            "style_merge": false,
+            "zoom": "16",
+            "display_mode": "large"
+        },
+        "index_order": 8
+    }
+]
