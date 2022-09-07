@@ -29,6 +29,11 @@
                             "fields": "description"
                         }
                     ]
+                },
+                "display": {
+                    "icon": "teritorio teritorio-extra-france_services",
+                    "color_fill": "#76009e",
+                    "color_line": "#76009e"
                 }
             },
             "geometry": {
@@ -37,11 +42,6 @@
                     -1.554281,
                     43.447545
                 ]
-            },
-            "display": {
-                "icon": "teritorio teritorio-extra-france_services",
-                "color_fill": "#76009e",
-                "color_line": "#76009e"
             }
         },
         {
@@ -72,6 +72,11 @@
                             "fields": "description"
                         }
                     ]
+                },
+                "display": {
+                    "icon": "teritorio teritorio-extra-france_services",
+                    "color_fill": "#76009e",
+                    "color_line": "#76009e"
                 }
             },
             "geometry": {
@@ -80,11 +85,6 @@
                     -1.55129,
                     47.246253
                 ]
-            },
-            "display": {
-                "icon": "teritorio teritorio-extra-france_services",
-                "color_fill": "#76009e",
-                "color_line": "#76009e"
             }
         },
         {
@@ -115,6 +115,11 @@
                             "fields": "description"
                         }
                     ]
+                },
+                "display": {
+                    "icon": "teritorio teritorio-extra-france_services",
+                    "color_fill": "#76009e",
+                    "color_line": "#76009e"
                 }
             },
             "geometry": {
@@ -123,11 +128,6 @@
                     -1.55482,
                     43.48135
                 ]
-            },
-            "display": {
-                "icon": "teritorio teritorio-extra-france_services",
-                "color_fill": "#76009e",
-                "color_line": "#76009e"
             }
         }
     ]

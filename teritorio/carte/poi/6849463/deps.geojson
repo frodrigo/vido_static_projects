@@ -29,6 +29,11 @@
                             "fields": "description"
                         }
                     ]
+                },
+                "display": {
+                    "icon": "teritorio teritorio-extra-town",
+                    "color_fill": "#2a62ac",
+                    "color_line": "#2a62ac"
                 }
             },
             "geometry": {
@@ -25915,11 +25920,6 @@
                         ]
                     ]
                 ]
-            },
-            "display": {
-                "icon": "teritorio teritorio-extra-town",
-                "color_fill": "#2a62ac",
-                "color_line": "#2a62ac"
             }
         }
     ]

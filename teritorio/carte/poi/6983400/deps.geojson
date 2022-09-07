@@ -29,6 +29,11 @@
                             "fields": "description"
                         }
                     ]
+                },
+                "display": {
+                    "icon": "teritorio teritorio-extra-recycling",
+                    "color_fill": "#f25c05",
+                    "color_line": "#f25c05"
                 }
             },
             "geometry": {
@@ -35759,11 +35764,6 @@
                         ]
                     ]
                 ]
-            },
-            "display": {
-                "icon": "teritorio teritorio-extra-recycling",
-                "color_fill": "#f25c05",
-                "color_line": "#f25c05"
             }
         }
     ]
