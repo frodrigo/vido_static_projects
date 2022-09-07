@@ -1203,6 +1203,11 @@
                         ]
                     ]
                 ]
+            },
+            "display": {
+                "icon": "teritorio teritorio-extra-town",
+                "color_fill": "#006660",
+                "color_line": "#006660"
             }
         }
     ]

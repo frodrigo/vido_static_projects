@@ -37,6 +37,11 @@
                     -0.528046,
                     44.852756
                 ]
+            },
+            "display": {
+                "icon": "teritorio teritorio-extra-recycling",
+                "color_fill": "#f25c05",
+                "color_line": "#f25c05"
             }
         }
     ]
