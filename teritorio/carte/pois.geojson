@@ -4,36 +4,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 3753013237,
-        "image": [
-          null
-        ],
-        "metadata": {
-          "id": 3753013237,
-          "category_ids": [
-            null
-          ]
-        },
-        "editorial": {
-          "website:details": null,
-          "popup_fields": [
-            {
-              "fields": "description"
-            }
-          ]
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.528063,
-          44.852754
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": 6983400,
         "category": "Projet Culture",
         "name": "Agglomération du Pays-Basque",
@@ -49,7 +19,7 @@
         "metadata": {
           "id": 6983400,
           "category_ids": [
-            "26"
+            26
           ]
         },
         "editorial": {
@@ -35809,7 +35779,7 @@
         "metadata": {
           "id": 3129052448,
           "category_ids": [
-            "27"
+            27
           ]
         },
         "editorial": {
@@ -35847,7 +35817,7 @@
         "metadata": {
           "id": 3769910090,
           "category_ids": [
-            "27"
+            27
           ]
         },
         "editorial": {
@@ -35885,7 +35855,7 @@
         "metadata": {
           "id": 4713026065,
           "category_ids": [
-            "25"
+            25
           ]
         },
         "editorial": {
@@ -35900,8 +35870,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.592236,
-          44.833673
+          -0.528046,
+          44.852756
         ]
       }
     },
@@ -35923,7 +35893,7 @@
         "metadata": {
           "id": 6849463,
           "category_ids": [
-            "23"
+            23
           ]
         },
         "editorial": {
@@ -61839,7 +61809,7 @@
         "metadata": {
           "id": 7376,
           "category_ids": [
-            "22"
+            22
           ]
         },
         "editorial": {
@@ -105051,7 +105021,7 @@
         "metadata": {
           "id": 71988148,
           "category_ids": [
-            "27"
+            27
           ]
         },
         "editorial": {
@@ -105089,7 +105059,7 @@
         "metadata": {
           "id": 117282,
           "category_ids": [
-            "22"
+            22
           ]
         },
         "editorial": {
@@ -108729,7 +108699,7 @@
         "metadata": {
           "id": 75973,
           "category_ids": [
-            "22"
+            22
           ]
         },
         "editorial": {
@@ -109637,7 +109607,7 @@
         "metadata": {
           "id": 4632597,
           "category_ids": [
-            "22"
+            22
           ]
         },
         "editorial": {
@@ -112613,7 +112583,7 @@
         "metadata": {
           "id": 422124,
           "category_ids": [
-            "23"
+            23
           ]
         },
         "editorial": {
@@ -115213,7 +115183,7 @@
         "metadata": {
           "id": 2178990,
           "category_ids": [
-            "22"
+            22
           ]
         },
         "editorial": {
@@ -121181,7 +121151,7 @@
         "metadata": {
           "id": 166718,
           "category_ids": [
-            "22"
+            22
           ]
         },
         "editorial": {
@@ -122157,7 +122127,7 @@
         "metadata": {
           "id": 2178968,
           "category_ids": [
-            "22"
+            22
           ]
         },
         "editorial": {
@@ -124517,7 +124487,7 @@
         "metadata": {
           "id": 2178970,
           "category_ids": [
-            "22"
+            22
           ]
         },
         "editorial": {
@@ -132337,7 +132307,7 @@
         "metadata": {
           "id": 2179010,
           "category_ids": [
-            "22"
+            22
           ]
         },
         "editorial": {
@@ -140437,7 +140407,7 @@
         "metadata": {
           "id": 166727,
           "category_ids": [
-            "22"
+            22
           ]
         },
         "editorial": {
@@ -143221,7 +143191,7 @@
         "metadata": {
           "id": 11277051,
           "category_ids": [
-            "22"
+            22
           ]
         },
         "editorial": {
@@ -159209,7 +159179,7 @@
         "metadata": {
           "id": 166713,
           "category_ids": [
-            "24"
+            24
           ]
         },
         "editorial": {
@@ -162245,7 +162215,7 @@
         "metadata": {
           "id": 105278,
           "category_ids": [
-            "24"
+            24
           ]
         },
         "editorial": {

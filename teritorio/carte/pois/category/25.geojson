@@ -19,7 +19,7 @@
                 "metadata": {
                     "id": 4713026065,
                     "category_ids": [
-                        "25"
+                        25
                     ]
                 },
                 "editorial": {
@@ -34,8 +34,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -0.592236,
-                    44.833673
+                    -0.528046,
+                    44.852756
                 ]
             }
         }
