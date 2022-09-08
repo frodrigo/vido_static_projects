@@ -61,7 +61,9 @@
             },
             "main_url": {
                 "en": "https://teritorio.fr"
-            }
+            },
+            "favorites_mode": false,
+            "explorer_mode": false
         }
     ]
 }
