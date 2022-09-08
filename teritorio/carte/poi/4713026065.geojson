@@ -34,15 +34,10 @@
         }
     },
     "geometry": {
-        "type": "Feature",
-        "properties": {
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                -0.528046,
-                44.852756
-            ]
-        }
+        "type": "Point",
+        "coordinates": [
+            -0.528046,
+            44.852756
+        ]
     }
 }
