@@ -1,0 +1,38 @@
+{
+    "type": "Feature",
+    "properties": {
+        "name": "Lons-le-Saunier",
+        "description": "Annuaire des commerces",
+        "category": "Projet ville",
+        "category_ids": "24",
+        "image": [
+            null
+        ],
+        "metadata": {
+            "id": null,
+            "category_ids": [
+                24
+            ]
+        },
+        "editorial": {
+            "website:details": null,
+            "popup_fields": [
+                {
+                    "field": "description"
+                }
+            ]
+        },
+        "display": {
+            "icon": "teritorio teritorio-extra-town",
+            "color_fill": "#006660",
+            "color_line": "#006660"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            5.526123,
+            46.675826
+        ]
+    }
+}
