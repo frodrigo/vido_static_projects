@@ -29,8 +29,8 @@
         },
         "display": {
             "icon": "teritorio teritorio-extra-france_services",
-            "color_fill": "#76009e",
-            "color_line": "#76009e"
+            "color_fill": "#64ad6b",
+            "color_line": "#64ad6b"
         }
     },
     "geometry": {

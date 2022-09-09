@@ -28,9 +28,9 @@
             ]
         },
         "display": {
-            "icon": "teritorio teritorio-extra-recycling",
-            "color_fill": "#f25c05",
-            "color_line": "#f25c05"
+            "icon": "teritorio teritorio-artwork",
+            "color_fill": "#76009e",
+            "color_line": "#76009e"
         }
     },
     "geometry": {
