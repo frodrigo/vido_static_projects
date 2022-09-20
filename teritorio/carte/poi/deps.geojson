@@ -4,13 +4,14 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "PETR - Pays ALO",
+                "name": "PETR - Pays Adour Lances Océanes",
                 "description": "Réalisation d'une cartographie pour le Projet Alimentaire du Pays ALO (4 communautés de communes du Sud des Landes) - La donnée OSM sert de pivot, articulée à de la donnée métier. Implication de 80 acteurs pour la contribution.",
                 "category": "Projet Transition",
                 "category_ids": "25",
                 "image": [
-                    null
+                    "https://www.teritorio.fr/wp-content/uploads/2022/09/pat.png"
                 ],
+                "website": "https://www.teritorio.fr/projets/alimentation-territoire-la-donnee-ouverte-au-coeur-du-projet-du-pays-adour-landes-oceanes/",
                 "metadata": {
                     "id": null,
                     "category_ids": [
@@ -18,7 +19,7 @@
                     ]
                 },
                 "editorial": {
-                    "website:details": null,
+                    "website:details": "https://www.teritorio.fr/projets/alimentation-territoire-la-donnee-ouverte-au-coeur-du-projet-du-pays-adour-landes-oceanes/",
                     "popup_fields": [
                         {
                             "field": "description"
