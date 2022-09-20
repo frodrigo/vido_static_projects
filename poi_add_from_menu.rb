@@ -15,6 +15,8 @@ pois['features'] = pois['features'].collect{ |poi|
   poi['properties']['display']['color_fill'] = menu[category_ids[0]]['category']['color_fill']
   poi['properties']['display']['color_line'] = menu[category_ids[0]]['category']['color_line']
 
+  poi['properties']['editorial']['class_label'] = menu[category_ids[0]]['category']['name']
+
   poi
 }
 
