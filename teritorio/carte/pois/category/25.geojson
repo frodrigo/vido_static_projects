@@ -59,8 +59,10 @@
                     "https://www.teritorio.fr/wp-content/uploads/2022/09/pat.png"
                 ],
                 "website": "https://www.teritorio.fr/projets/alimentation-territoire-la-donnee-ouverte-au-coeur-du-projet-du-pays-adour-landes-oceanes/",
+                "id": "11277051",
+                "id zone OSM": "11277051",
                 "metadata": {
-                    "id": null,
+                    "id": "11277051",
                     "category_ids": [
                         25
                     ]

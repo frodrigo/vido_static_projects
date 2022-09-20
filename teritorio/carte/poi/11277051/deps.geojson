@@ -4,40 +4,38 @@
         {
             "type": "Feature",
             "properties": {
-                "id": 11277051,
-                "category": "Projet Tourisme",
-                "name": "PETR Adour Landes Océanes",
-                "description": "Utlisation de l’API Teritorio et coopération avec Loopi pour le projet baladesudlandes.fr",
-                "website": "https://www.teritorio.fr/projets/balades-rando-velo-en-commun-pour-les-4-offices-de-tourisme-du-pays-alo-un-projet-en-partenariat-avec-loopi/",
+                "name": "PETR - Pays Adour Lances Océanes",
+                "description": "Réalisation d'une cartographie pour le Projet Alimentaire du Pays ALO (4 communautés de communes du Sud des Landes) - La donnée OSM sert de pivot, articulée à de la donnée métier. Implication de 80 acteurs pour la contribution.",
+                "category": "Projet Transition",
+                "category_ids": "25",
                 "image": [
-                    "https://www.teritorio.fr/wp-content/uploads/2022/07/baladesudlandes.jpg"
+                    "https://www.teritorio.fr/wp-content/uploads/2022/09/pat.png"
                 ],
+                "website": "https://www.teritorio.fr/projets/alimentation-territoire-la-donnee-ouverte-au-coeur-du-projet-du-pays-adour-landes-oceanes/",
+                "id": "11277051",
                 "id zone OSM": "11277051",
-                "id poi": "",
-                "remarque": "",
-                "category_ids": "22",
                 "metadata": {
-                    "id": 11277051,
+                    "id": "11277051",
                     "category_ids": [
-                        22
+                        25
                     ]
                 },
                 "editorial": {
-                    "website:details": "https://www.teritorio.fr/projets/balades-rando-velo-en-commun-pour-les-4-offices-de-tourisme-du-pays-alo-un-projet-en-partenariat-avec-loopi/",
+                    "website:details": "https://www.teritorio.fr/projets/alimentation-territoire-la-donnee-ouverte-au-coeur-du-projet-du-pays-adour-landes-oceanes/",
                     "popup_fields": [
                         {
                             "field": "description"
                         }
                     ],
                     "class_label": {
-                        "en": "Tourism Projects",
-                        "fr": "Projets tourisme"
+                        "en": "Transition Projects",
+                        "fr": "Projets transition"
                     }
                 },
                 "display": {
-                    "icon": "teritorio teritorio-office",
-                    "color_fill": "#e50980",
-                    "color_line": "#e50980"
+                    "icon": "teritorio teritorio-extra-recycling",
+                    "color_fill": "#f25c05",
+                    "color_line": "#f25c05"
                 }
             },
             "geometry": {
