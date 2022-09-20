@@ -28,7 +28,11 @@
                         {
                             "field": "description"
                         }
-                    ]
+                    ],
+                    "class_label": {
+                        "en": "Tourism Projects",
+                        "fr": "Projets tourisme"
+                    }
                 },
                 "display": {
                     "icon": "teritorio teritorio-office",
@@ -71,7 +75,11 @@
                         {
                             "field": "description"
                         }
-                    ]
+                    ],
+                    "class_label": {
+                        "en": "Tourism Projects",
+                        "fr": "Projets tourisme"
+                    }
                 },
                 "display": {
                     "icon": "teritorio teritorio-office",
@@ -114,7 +122,11 @@
                         {
                             "field": "description"
                         }
-                    ]
+                    ],
+                    "class_label": {
+                        "en": "Tourism Projects",
+                        "fr": "Projets tourisme"
+                    }
                 },
                 "display": {
                     "icon": "teritorio teritorio-office",
@@ -157,7 +169,11 @@
                         {
                             "field": "description"
                         }
-                    ]
+                    ],
+                    "class_label": {
+                        "en": "Tourism Projects",
+                        "fr": "Projets tourisme"
+                    }
                 },
                 "display": {
                     "icon": "teritorio teritorio-office",
@@ -200,7 +216,11 @@
                         {
                             "field": "description"
                         }
-                    ]
+                    ],
+                    "class_label": {
+                        "en": "Tourism Projects",
+                        "fr": "Projets tourisme"
+                    }
                 },
                 "display": {
                     "icon": "teritorio teritorio-office",
@@ -243,7 +263,11 @@
                         {
                             "field": "description"
                         }
-                    ]
+                    ],
+                    "class_label": {
+                        "en": "Tourism Projects",
+                        "fr": "Projets tourisme"
+                    }
                 },
                 "display": {
                     "icon": "teritorio teritorio-office",
@@ -286,7 +310,11 @@
                         {
                             "field": "description"
                         }
-                    ]
+                    ],
+                    "class_label": {
+                        "en": "Tourism Projects",
+                        "fr": "Projets tourisme"
+                    }
                 },
                 "display": {
                     "icon": "teritorio teritorio-office",
@@ -329,7 +357,11 @@
                         {
                             "field": "description"
                         }
-                    ]
+                    ],
+                    "class_label": {
+                        "en": "Tourism Projects",
+                        "fr": "Projets tourisme"
+                    }
                 },
                 "display": {
                     "icon": "teritorio teritorio-office",
@@ -372,7 +404,11 @@
                         {
                             "field": "description"
                         }
-                    ]
+                    ],
+                    "class_label": {
+                        "en": "Tourism Projects",
+                        "fr": "Projets tourisme"
+                    }
                 },
                 "display": {
                     "icon": "teritorio teritorio-office",
@@ -415,7 +451,11 @@
                         {
                             "field": "description"
                         }
-                    ]
+                    ],
+                    "class_label": {
+                        "en": "Tourism Projects",
+                        "fr": "Projets tourisme"
+                    }
                 },
                 "display": {
                     "icon": "teritorio teritorio-office",
@@ -458,7 +498,11 @@
                         {
                             "field": "description"
                         }
-                    ]
+                    ],
+                    "class_label": {
+                        "en": "Tourism Projects",
+                        "fr": "Projets tourisme"
+                    }
                 },
                 "display": {
                     "icon": "teritorio teritorio-office",

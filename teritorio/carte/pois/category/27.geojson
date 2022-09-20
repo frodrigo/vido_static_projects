@@ -28,7 +28,11 @@
                         {
                             "field": "description"
                         }
-                    ]
+                    ],
+                    "class_label": {
+                        "en": "Actions",
+                        "fr": "Actions"
+                    }
                 },
                 "display": {
                     "icon": "teritorio teritorio-extra-france_services",
@@ -71,7 +75,11 @@
                         {
                             "field": "description"
                         }
-                    ]
+                    ],
+                    "class_label": {
+                        "en": "Actions",
+                        "fr": "Actions"
+                    }
                 },
                 "display": {
                     "icon": "teritorio teritorio-extra-france_services",
@@ -114,7 +122,11 @@
                         {
                             "field": "description"
                         }
-                    ]
+                    ],
+                    "class_label": {
+                        "en": "Actions",
+                        "fr": "Actions"
+                    }
                 },
                 "display": {
                     "icon": "teritorio teritorio-extra-france_services",

@@ -25,7 +25,11 @@
                 {
                     "field": "description"
                 }
-            ]
+            ],
+            "class_label": {
+                "en": "City & Tourism Projects",
+                "fr": "Projets ville & tourisme"
+            }
         },
         "display": {
             "icon": "teritorio teritorio-extra-town",

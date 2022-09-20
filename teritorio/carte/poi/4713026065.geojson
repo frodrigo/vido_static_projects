@@ -25,7 +25,11 @@
                 {
                     "field": "description"
                 }
-            ]
+            ],
+            "class_label": {
+                "en": "Transition Projects",
+                "fr": "Projets transition"
+            }
         },
         "display": {
             "icon": "teritorio teritorio-extra-recycling",

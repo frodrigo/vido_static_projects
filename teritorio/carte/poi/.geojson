@@ -1,17 +1,17 @@
 {
     "type": "Feature",
     "properties": {
-        "name": "Lons-le-Saunier",
-        "description": "Annuaire des commerces",
-        "category": "Projet ville",
-        "category_ids": "24",
+        "name": "PETR - Pays ALO",
+        "description": "Réalisation d'une cartographie pour le Projet Alimentaire du Pays ALO (4 communautés de communes du Sud des Landes) - La donnée OSM sert de pivot, articulée à de la donnée métier. Implication de 80 acteurs pour la contribution.",
+        "category": "Projet Transition",
+        "category_ids": "25",
         "image": [
             null
         ],
         "metadata": {
             "id": null,
             "category_ids": [
-                24
+                25
             ]
         },
         "editorial": {
@@ -20,19 +20,23 @@
                 {
                     "field": "description"
                 }
-            ]
+            ],
+            "class_label": {
+                "en": "Transition Projects",
+                "fr": "Projets transition"
+            }
         },
         "display": {
-            "icon": "teritorio teritorio-extra-town",
-            "color_fill": "#006660",
-            "color_line": "#006660"
+            "icon": "teritorio teritorio-extra-recycling",
+            "color_fill": "#f25c05",
+            "color_line": "#f25c05"
         }
     },
     "geometry": {
         "type": "Point",
         "coordinates": [
-            5.526123,
-            46.675826
+            -1.1218135805318603,
+            43.629294098845996
         ]
     }
 }

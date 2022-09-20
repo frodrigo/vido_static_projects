@@ -28,7 +28,11 @@
                         {
                             "field": "description"
                         }
-                    ]
+                    ],
+                    "class_label": {
+                        "en": "Cultural Projects",
+                        "fr": "Projets culturel"
+                    }
                 },
                 "display": {
                     "icon": "teritorio teritorio-artwork",

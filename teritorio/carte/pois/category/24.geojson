@@ -23,7 +23,11 @@
                         {
                             "field": "description"
                         }
-                    ]
+                    ],
+                    "class_label": {
+                        "en": "City Projects",
+                        "fr": "Projets ville"
+                    }
                 },
                 "display": {
                     "icon": "teritorio teritorio-extra-town",
@@ -66,7 +70,11 @@
                         {
                             "field": "description"
                         }
-                    ]
+                    ],
+                    "class_label": {
+                        "en": "City Projects",
+                        "fr": "Projets ville"
+                    }
                 },
                 "display": {
                     "icon": "teritorio teritorio-extra-town",
@@ -109,7 +117,11 @@
                         {
                             "field": "description"
                         }
-                    ]
+                    ],
+                    "class_label": {
+                        "en": "City Projects",
+                        "fr": "Projets ville"
+                    }
                 },
                 "display": {
                     "icon": "teritorio teritorio-extra-town",
