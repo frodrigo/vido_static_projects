@@ -4,46 +4,44 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "OTi des vallées de Gavarnie",
-                "description": "Mise en place d'une cartographie des ressouces et commecers ouverts pendant la crise Covid 2020 - Projet clot.",
-                "id": "3443942",
+                "name": "OTi Lacs et gorges du Verdon",
+                "description": "Formation à OpenStreetMap de l'équipe de l'OT - Projet de carte Web au démarrage.",
+                "category": "Projet Tourisme",
                 "id zone OSM": "3443942",
-                "website": "https://www.teritorio.fr/projets/office-de-tourisme-des-vallees-de-gavarnie-la-donnees-osm-pivot-dune-carte-interactive/",
-                "category_ids": "25",
-                "category": "Projet Transition",
-                "id poi": "3443942",
                 "image": [
-                    "https://www.teritorio.fr/wp-content/uploads/2022/09/covid-gavarnie.png"
+                    "https://www.teritorio.fr/wp-content/uploads/2022/09/carto-lac-gorges.png"
                 ],
+                "category_ids": "22",
+                "id": "3443942",
                 "metadata": {
                     "id": "3443942",
                     "category_ids": [
-                        25
+                        22
                     ]
                 },
                 "editorial": {
-                    "website:details": "https://www.teritorio.fr/projets/office-de-tourisme-des-vallees-de-gavarnie-la-donnees-osm-pivot-dune-carte-interactive/",
+                    "website:details": null,
                     "popup_fields": [
                         {
                             "field": "description"
                         }
                     ],
                     "class_label": {
-                        "en": "Transition Projects",
-                        "fr": "Projets transition"
+                        "en": "Tourism Projects",
+                        "fr": "Projets tourisme"
                     }
                 },
                 "display": {
-                    "icon": "teritorio teritorio-extra-recycling",
-                    "color_fill": "#f25c05",
-                    "color_line": "#f25c05"
+                    "icon": "teritorio teritorio-office",
+                    "color_fill": "#e50980",
+                    "color_line": "#e50980"
                 }
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -0.06746525994694955,
-                    42.87418301538455
+                    6.3639224272878705,
+                    43.72509259201325
                 ]
             }
         }
