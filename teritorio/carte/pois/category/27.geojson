@@ -145,7 +145,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "OpenTourismeLab",
+                "name": "OpenTourismeLab - Occitanie",
                 "description": "Teritorio fait partie de la promotion 5 de l'OpenTourismeLab et participe à ce titre à ses diverses actions.",
                 "id poi": "9586444739",
                 "category_ids": "27",
@@ -184,6 +184,96 @@
                 "coordinates": [
                     4.368069,
                     43.831965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mission des Offices de Tourisme de Nouvelle Aquitaine",
+                "id poi": "4713026065",
+                "id": "4713026065",
+                "category": "Action",
+                "website": "https://www.teritorio.fr/projets/ingenierie-pedagogique-aupres-de-la-mona/",
+                "description": "Ingénierie pédagogique et animation de formations OpenStreetMap auprès de la MONA",
+                "image": [
+                    "https://www.teritorio.fr/wp-content/uploads/2022/09/mona-action-teritorio.png"
+                ],
+                "category_ids": "27",
+                "metadata": {
+                    "id": "4713026065",
+                    "category_ids": [
+                        27
+                    ]
+                },
+                "editorial": {
+                    "website:details": "https://www.teritorio.fr/projets/ingenierie-pedagogique-aupres-de-la-mona/",
+                    "popup_fields": [
+                        {
+                            "field": "description"
+                        }
+                    ],
+                    "class_label": {
+                        "en": "Actions",
+                        "fr": "Actions"
+                    }
+                },
+                "display": {
+                    "icon": "teritorio teritorio-extra-france_services",
+                    "color_fill": "#64ad6b",
+                    "color_line": "#64ad6b"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.592237,
+                    44.83366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TourismeLab - Nouvelle Aquitaine",
+                "description": "Teritorio fait partie de la promotion 2022 du Tourisme Lab  et participe à ce titre à ses diverses actions.",
+                "category_ids": "27",
+                "category": "Action",
+                "id poi": "10041468090",
+                "id": "10041468090",
+                "website": "https://www.tourismelab.fr/",
+                "image": [
+                    "https://www.teritorio.fr/wp-content/uploads/2022/09/tourisme-lab.png"
+                ],
+                "metadata": {
+                    "id": "10041468090",
+                    "category_ids": [
+                        27
+                    ]
+                },
+                "editorial": {
+                    "website:details": "https://www.tourismelab.fr/",
+                    "popup_fields": [
+                        {
+                            "field": "description"
+                        }
+                    ],
+                    "class_label": {
+                        "en": "Actions",
+                        "fr": "Actions"
+                    }
+                },
+                "display": {
+                    "icon": "teritorio teritorio-extra-france_services",
+                    "color_fill": "#64ad6b",
+                    "color_line": "#64ad6b"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.624532,
+                    44.79391
                 ]
             }
         }

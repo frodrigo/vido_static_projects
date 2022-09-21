@@ -1,0 +1,45 @@
+{
+    "type": "Feature",
+    "properties": {
+        "name": "TourismeLab - Nouvelle Aquitaine",
+        "description": "Teritorio fait partie de la promotion 2022 du Tourisme Lab  et participe à ce titre à ses diverses actions.",
+        "category_ids": "27",
+        "category": "Action",
+        "id poi": "10041468090",
+        "id": "10041468090",
+        "website": "https://www.tourismelab.fr/",
+        "image": [
+            "https://www.teritorio.fr/wp-content/uploads/2022/09/tourisme-lab.png"
+        ],
+        "metadata": {
+            "id": "10041468090",
+            "category_ids": [
+                27
+            ]
+        },
+        "editorial": {
+            "website:details": "https://www.tourismelab.fr/",
+            "popup_fields": [
+                {
+                    "field": "description"
+                }
+            ],
+            "class_label": {
+                "en": "Actions",
+                "fr": "Actions"
+            }
+        },
+        "display": {
+            "icon": "teritorio teritorio-extra-france_services",
+            "color_fill": "#64ad6b",
+            "color_line": "#64ad6b"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -0.624532,
+            44.79391
+        ]
+    }
+}
