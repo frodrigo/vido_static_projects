@@ -94,6 +94,51 @@
                     44.80164821034481
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ville de Lons-le-Saunier",
+                "description": "Carte web des commerces - Accompagnement des acteurs locaux pour une extension du projet.",
+                "id zone OSM": "152508",
+                "id": "152508",
+                "website": "https://www.teritorio.fr/projets/lons-le-saunier-un-annuaire-des-commerces/",
+                "image": [
+                    "https://www.teritorio.fr/wp-content/uploads/2022/09/pat.png"
+                ],
+                "category": "Projet Ville",
+                "category_ids": "24",
+                "metadata": {
+                    "id": "152508",
+                    "category_ids": [
+                        24
+                    ]
+                },
+                "editorial": {
+                    "website:details": "https://www.teritorio.fr/projets/lons-le-saunier-un-annuaire-des-commerces/",
+                    "popup_fields": [
+                        {
+                            "field": "description"
+                        }
+                    ],
+                    "class_label": {
+                        "en": "City Projects",
+                        "fr": "Projets ville"
+                    }
+                },
+                "display": {
+                    "icon": "teritorio teritorio-extra-town",
+                    "color_fill": "#006660",
+                    "color_line": "#006660"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.5573441983606555,
+                    46.67547798688528
+                ]
+            }
         }
     ]
 }

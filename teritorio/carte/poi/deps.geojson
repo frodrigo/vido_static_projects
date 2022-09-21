@@ -1,0 +1,49 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "OTi Lacs et gorges du Verdon",
+                "description": "Formation à OpenStreetMap de l'équipe de l'OT - Projet de carte Web au démarrage.",
+                "category": "Projet Tourisme",
+                "id zone OSM": "3443942",
+                "id poi": "3443942",
+                "image": [
+                    "https://www.teritorio.fr/wp-content/uploads/2022/09/carto-lac-gorges.png"
+                ],
+                "category_ids": "22",
+                "metadata": {
+                    "id": null,
+                    "category_ids": [
+                        22
+                    ]
+                },
+                "editorial": {
+                    "website:details": null,
+                    "popup_fields": [
+                        {
+                            "field": "description"
+                        }
+                    ],
+                    "class_label": {
+                        "en": "Tourism Projects",
+                        "fr": "Projets tourisme"
+                    }
+                },
+                "display": {
+                    "icon": "teritorio teritorio-office",
+                    "color_fill": "#e50980",
+                    "color_line": "#e50980"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.3639224272878705,
+                    43.72509259201325
+                ]
+            }
+        }
+    ]
+}
