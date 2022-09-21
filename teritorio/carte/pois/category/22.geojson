@@ -525,13 +525,13 @@
                 "description": "Formation à OpenStreetMap de l'équipe de l'OT - Projet de carte Web au démarrage.",
                 "category": "Projet Tourisme",
                 "id zone OSM": "3443942",
-                "id poi": "3443942",
                 "image": [
                     "https://www.teritorio.fr/wp-content/uploads/2022/09/carto-lac-gorges.png"
                 ],
                 "category_ids": "22",
+                "id": "3443942",
                 "metadata": {
-                    "id": null,
+                    "id": "3443942",
                     "category_ids": [
                         22
                     ]
