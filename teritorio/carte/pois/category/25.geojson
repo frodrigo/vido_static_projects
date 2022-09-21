@@ -92,6 +92,50 @@
                     43.629294098845996
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1004110258",
+                "category": "Projet Transition",
+                "website": "https://www.teritorio.fr/projets/carteco-les-structures-de-less-de-leconomie-circulaire/",
+                "image": [
+                    "https://www.teritorio.fr/wp-content/uploads/2022/09/carteco-general_carre.jpg"
+                ],
+                "description": "Cartographie Nationale des acteurs de l'économie circulaire avec ESS France et les CRESS régionales - Projet itératif",
+                "name": "ESS France – Carteco",
+                "category_ids": "25",
+                "metadata": {
+                    "id": "1004110258",
+                    "category_ids": [
+                        25
+                    ]
+                },
+                "editorial": {
+                    "website:details": "https://www.teritorio.fr/projets/carteco-les-structures-de-less-de-leconomie-circulaire/",
+                    "popup_fields": [
+                        {
+                            "field": "description"
+                        }
+                    ],
+                    "class_label": {
+                        "en": "Transition Projects",
+                        "fr": "Projets transition"
+                    }
+                },
+                "display": {
+                    "icon": "teritorio teritorio-extra-recycling",
+                    "color_fill": "#f25c05",
+                    "color_line": "#f25c05"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.326662,
+                    48.872267
+                ]
+            }
         }
     ]
 }
