@@ -8,8 +8,9 @@
         "website": "https://www.teritorio.fr/projets/office-de-tourisme-des-vallees-de-gavarnie-la-donnees-osm-pivot-dune-carte-interactive/",
         "category_ids": "25",
         "category": "Projet Transition",
+        "id poi": "3443942",
         "image": [
-            null
+            "https://www.teritorio.fr/wp-content/uploads/2022/09/covid-gavarnie.png"
         ],
         "metadata": {
             "id": "3443942",
