@@ -145,51 +145,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "OpenTourismeLab - Occitanie",
-                "description": "Teritorio fait partie de la promotion 5 de l'OpenTourismeLab et participe à ce titre à ses diverses actions.",
-                "id poi": "9586444739",
-                "category_ids": "27",
-                "category": "Action",
-                "website": "https://www.opentourismelab.com/",
-                "image": [
-                    "https://www.teritorio.fr/wp-content/uploads/2022/09/otl-occitanie.png"
-                ],
-                "id": "9586444739",
-                "metadata": {
-                    "id": "9586444739",
-                    "category_ids": [
-                        27
-                    ]
-                },
-                "editorial": {
-                    "website:details": "https://www.opentourismelab.com/",
-                    "popup_fields": [
-                        {
-                            "field": "description"
-                        }
-                    ],
-                    "class_label": {
-                        "en": "Actions",
-                        "fr": "Actions"
-                    }
-                },
-                "display": {
-                    "icon": "teritorio teritorio-extra-france_services",
-                    "color_fill": "#64ad6b",
-                    "color_line": "#64ad6b"
-                }
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.368069,
-                    43.831965
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Mission des Offices de Tourisme de Nouvelle Aquitaine",
                 "id poi": "4713026065",
                 "id": "4713026065",
@@ -229,6 +184,51 @@
                 "coordinates": [
                     -0.592237,
                     44.83366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "OpenTourismeLab - Occitanie",
+                "description": "Teritorio fait partie de la promotion 5 de l'OpenTourismeLab et participe à ce titre à ses diverses actions.",
+                "id poi": "9586444739",
+                "category_ids": "27",
+                "category": "Action",
+                "website": "https://www.opentourismelab.com/",
+                "image": [
+                    "https://www.teritorio.fr/wp-content/uploads/2022/09/otl-occitanie.png"
+                ],
+                "id": "9586444739",
+                "metadata": {
+                    "id": "9586444739",
+                    "category_ids": [
+                        27
+                    ]
+                },
+                "editorial": {
+                    "website:details": "https://www.opentourismelab.com/",
+                    "popup_fields": [
+                        {
+                            "field": "description"
+                        }
+                    ],
+                    "class_label": {
+                        "en": "Actions",
+                        "fr": "Actions"
+                    }
+                },
+                "display": {
+                    "icon": "teritorio teritorio-extra-france_services",
+                    "color_fill": "#64ad6b",
+                    "color_line": "#64ad6b"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.368069,
+                    43.831965
                 ]
             }
         },

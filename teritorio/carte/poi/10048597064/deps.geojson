@@ -1,0 +1,49 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Coopérative des tiers-lieux",
+                "category": "Projet Transition",
+                "category_ids": "25",
+                "id": "10048597064",
+                "id poi": "10048597064",
+                "website": "https://www.teritorio.fr/projets/accompagnement-de-12-tiers-lieux-en-nouvelle-aquitaine/",
+                "image": [
+                    "https://www.teritorio.fr/wp-content/uploads/2022/09/coop-tiers-lieux.png"
+                ],
+                "metadata": {
+                    "id": "10048597064",
+                    "category_ids": [
+                        25
+                    ]
+                },
+                "editorial": {
+                    "website:details": "https://www.teritorio.fr/projets/accompagnement-de-12-tiers-lieux-en-nouvelle-aquitaine/",
+                    "popup_fields": [
+                        {
+                            "field": "description"
+                        }
+                    ],
+                    "class_label": {
+                        "en": "Transition Projects",
+                        "fr": "Projets transition"
+                    }
+                },
+                "display": {
+                    "icon": "teritorio teritorio-extra-recycling",
+                    "color_fill": "#f25c05",
+                    "color_line": "#f25c05"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.235974,
+                    44.905396
+                ]
+            }
+        }
+    ]
+}
