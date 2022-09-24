@@ -7,7 +7,7 @@
                 "id": 4713026065,
                 "category": "Projet Transition",
                 "name": "Bordeaux Métropole -  Grand Projet des Villes Rive Droite ",
-                "description": "Projet de cartophie des projets de logements, d'équipements, d'aménagements urbains ou économiques sur la Rive Droite",
+                "description": "Projet de cartographie des projets de logements, d'équipements, d'aménagements urbains ou économiques sur la Rive Droite",
                 "website": "https://www.teritorio.fr/projets/la-carte-des-grands-projets-de-la-rive-droite-bordeaux/",
                 "image": [
                     "https://www.surlarivedroite.fr/wp-content/uploads/2020/09/Une-vignette-e1600785542756.jpg"
@@ -60,7 +60,7 @@
                 "image": [
                     "https://www.teritorio.fr/wp-content/uploads/2022/09/coop-tiers-lieux.png"
                 ],
-                "description": "Accompagnement de la coopérative et de 12 tiers lieux pour référencer les Tiers-Lieux dans OSM et créér une carte",
+                "description": "Accompagnement de la coopérative et de 12 tiers lieux pour référencer les Tiers-Lieux dans OSM et créer une carte",
                 "metadata": {
                     "id": "10048597064",
                     "category_ids": [
