@@ -290,7 +290,6 @@
                 "category": "Projet Tourisme",
                 "name": "OTi de Bisca Grand lacs",
                 "description": "Projet de carte web, de plan touristique et collaboration la communauté de communes sur la donnée Vélo",
-                "website": "https://www.teritorio.fr/projets/un-projet-complet-de-cartographie-web-et-print/",
                 "image": [
                     "https://www.teritorio.fr/wp-content/uploads/2022/07/bisca.png"
                 ],
@@ -305,7 +304,7 @@
                     ]
                 },
                 "editorial": {
-                    "website:details": "https://www.teritorio.fr/projets/un-projet-complet-de-cartographie-web-et-print/",
+                    "website:details": null,
                     "popup_fields": [
                         {
                             "field": "description"
