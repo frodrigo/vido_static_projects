@@ -4,10 +4,10 @@
         "id": 166713,
         "category": "Projet Ville",
         "name": "Ville de Bayonne",
-        "description": "Utilisation du Fond de carte Teritorio City pour les cartes interactives de la ville",
+        "description": "Utilisation du Fond de carte Teritorio City pour les cartes interactives de la ville\n\nPhoto [[https://commons.wikimedia.org/wiki/File:Bayonne-Centre_historique-20130811.jpg|Daniel VILLAFRUELA, wikipedia, CC-By-SA]]",
         "website": "",
         "image": [
-            "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Bayonne-Centre_historique-20130811.jpg/800px-Bayonne-Centre_historique-20130811.jpg?20130909071948"
+            "https://www.teritorio.fr/wp-content/uploads/2022/10/800px-Bayonne-Centre_historique-20130811.jpg"
         ],
         "id zone OSM": "166713",
         "id poi": "",
