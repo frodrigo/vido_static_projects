@@ -9,7 +9,7 @@
                 "name": "Bordeaux Métropole -  Grand Projet des Villes Rive Droite ",
                 "description": "Projet de cartographie des projets de logements, d'équipements, d'aménagements urbains ou économiques sur la Rive Droite",
                 "image": [
-                    "https://www.surlarivedroite.fr/wp-content/uploads/2020/09/Une-vignette-e1600785542756.jpg"
+                    "https://www.teritorio.fr/wp-content/uploads/2022/10/gpv-sur-la-rive-droite.jpg"
                 ],
                 "id zone OSM": "",
                 "id poi": "4713026065",
@@ -57,7 +57,7 @@
                 "id poi": "10048597064",
                 "website": "https://www.teritorio.fr/projets/accompagnement-de-12-tiers-lieux-en-nouvelle-aquitaine/",
                 "image": [
-                    "https://www.teritorio.fr/wp-content/uploads/2022/09/coop-tiers-lieux.png"
+                    "https://www.teritorio.fr/wp-content/uploads/2022/10/coop-tiers-lieux.png"
                 ],
                 "description": "Accompagnement de la coopérative et de 12 tiers lieux pour référencer les Tiers-Lieux dans OSM et créer une carte",
                 "metadata": {
@@ -148,7 +148,7 @@
                 "category": "Projet Transition",
                 "id poi": "3443942",
                 "image": [
-                    "https://www.teritorio.fr/wp-content/uploads/2022/09/covid-gavarnie.png"
+                    "https://www.teritorio.fr/wp-content/uploads/2022/10/covid-gavarnie.png"
                 ],
                 "metadata": {
                     "id": "3443942",
@@ -190,7 +190,7 @@
                 "category": "Projet Transition",
                 "category_ids": "25",
                 "image": [
-                    "https://www.teritorio.fr/wp-content/uploads/2022/09/pat.png"
+                    "https://www.teritorio.fr/wp-content/uploads/2022/10/pat.png"
                 ],
                 "website": "https://www.teritorio.fr/projets/alimentation-territoire-la-donnee-ouverte-au-coeur-du-projet-du-pays-adour-landes-oceanes/",
                 "id": "11277051",

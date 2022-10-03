@@ -7,7 +7,7 @@
                 "id": 166713,
                 "category": "Projet Ville",
                 "name": "Ville de Bayonne",
-                "description": "Utilisation du Fond de carte Teritorio City pour les cartes interactives de la ville\n\nPhoto [[https://commons.wikimedia.org/wiki/File:Bayonne-Centre_historique-20130811.jpg|Daniel VILLAFRUELA, wikipedia, CC-By-SA]]",
+                "description": "Utilisation du Fond de carte Teritorio City pour les cartes interactives de la ville\n\nPhoto Daniel VILLAFRUELA, wikipedia, CC-By-SA",
                 "website": "",
                 "image": [
                     "https://www.teritorio.fr/wp-content/uploads/2022/10/800px-Bayonne-Centre_historique-20130811.jpg"
@@ -57,7 +57,7 @@
                 "description": "Carte Web présentant la disponibilité des assistantes maternelles, les infos travaux – Projet OpenStreetMap en cours",
                 "website": "https://www.teritorio.fr/projets/un-projet-de-cartographie-dinformation-a-la-population/",
                 "image": [
-                    "https://www.teritorio.fr/wp-content/uploads/2022/07/begles-map.png"
+                    "https://www.teritorio.fr/wp-content/uploads/2022/10/begles-map.png"
                 ],
                 "id zone OSM": "105278",
                 "id poi": "",

@@ -10,7 +10,7 @@
                 "description": "Projet de carte des Landes, 80 personnes formées, 17 Ots impliqués, 15 000 points d’intérêt",
                 "website": "https://www.teritorio.fr/projets/quand-tout-un-departement-travaille-a-sa-cartographie-avec-openstreetmap/",
                 "image": [
-                    "https://www.teritorio.fr/wp-content/uploads/2022/07/landes-terres-possibles.png"
+                    "https://www.teritorio.fr/wp-content/uploads/2022/10/landes-terres-possibles.png"
                 ],
                 "id zone OSM": "7376",
                 "id poi": "",
@@ -57,7 +57,7 @@
                 "description": "Réalisation d’un plan touristique dans la foulée de la participation au projet départemental",
                 "website": "https://www.teritorio.fr/projets/loti-daire-et-deugenie-le-combo-plan-touristique-utilisation-de-la-carte-web-des-landes/",
                 "image": [
-                    "https://www.teritorio.fr/wp-content/uploads/2022/07/plan-eugenie.png"
+                    "https://www.teritorio.fr/wp-content/uploads/2022/10/plan-eugenie.png"
                 ],
                 "id zone OSM": "117282",
                 "id poi": "",
@@ -104,7 +104,7 @@
                 "description": "Un projet de territoire lancé à l’occasion du soutien aux commerçants – phase 1 de la Covid19",
                 "website": "https://www.teritorio.fr/projets/maitriser-la-donnee-commerce-pour-repondre-a-la-crise-covid-un-declencheur-pour-une-carte-avec-osm/",
                 "image": [
-                    "https://www.teritorio.fr/wp-content/uploads/2022/07/hossegor.jpeg"
+                    "https://www.teritorio.fr/wp-content/uploads/2022/10/hossegor.jpeg"
                 ],
                 "id zone OSM": "75973",
                 "id poi": "",
@@ -198,7 +198,7 @@
                 "description": "Projet qui démarre par le tourisme avec la volonté d’ouvrir le jeu vers la collectivité territoriale",
                 "website": "https://www.teritorio.fr/projets/la-cartographie-en-pays-tarusate-un-projet-danimation-du-territoire/",
                 "image": [
-                    "https://www.lecoeurdeslandes.com/files/img/accueil/carte-pays-tarusate.jpg"
+                    "https://www.teritorio.fr/wp-content/uploads/2022/10/carte-pays-tarusate.jpg"
                 ],
                 "id zone OSM": "2178990",
                 "id poi": "",
@@ -291,7 +291,7 @@
                 "name": "OTi de Bisca Grand lacs",
                 "description": "Projet de carte web, de plan touristique et collaboration la communauté de communes sur la donnée Vélo",
                 "image": [
-                    "https://www.teritorio.fr/wp-content/uploads/2022/07/bisca.png"
+                    "https://www.teritorio.fr/wp-content/uploads/2022/10/bisca.png"
                 ],
                 "id zone OSM": "2178968",
                 "id poi": "",
@@ -337,7 +337,7 @@
                 "name": "OTi de Mimizan",
                 "description": "Projet de carte Web dans la foulée de la participation au projet départemental",
                 "image": [
-                    "https://www.teritorio.fr/wp-content/uploads/2022/07/mimizan.jpg"
+                    "https://www.teritorio.fr/wp-content/uploads/2022/10/bisca.png"
                 ],
                 "id zone OSM": "2178970",
                 "id poi": "",
@@ -383,7 +383,7 @@
                 "category": "Projet Tourisme",
                 "id zone OSM": "3443942",
                 "image": [
-                    "https://www.teritorio.fr/wp-content/uploads/2022/09/carto-lac-gorges.png"
+                    "https://www.teritorio.fr/wp-content/uploads/2022/10/carto-lac-gorges.png"
                 ],
                 "category_ids": "22",
                 "id": "3443942",
@@ -522,7 +522,7 @@
                 "description": "Utlisation de l’API Teritorio et coopération avec Loopi pour le projet baladesudlandes.fr - Accompagnement de 4 OTi pour la contribution OSM",
                 "website": "https://www.teritorio.fr/projets/balades-rando-velo-en-commun-pour-les-4-offices-de-tourisme-du-pays-alo-un-projet-en-partenariat-avec-loopi/",
                 "image": [
-                    "https://www.teritorio.fr/wp-content/uploads/2022/07/baladesudlandes.jpg"
+                    "https://www.teritorio.fr/wp-content/uploads/2022/10/baladesudlandes.jpg"
                 ],
                 "id zone OSM": "11277051",
                 "id poi": "",
