@@ -566,13 +566,14 @@
                 "name": "Office de Tourisme du Grand Dax",
                 "description": "Réalisation de plan de ville et d'une carte touristique en 2022 - projet de carte web en 2023",
                 "category": "Projet tTourisme",
-                "id zone OSM": "2178998",
                 "category_ids": "22",
                 "image": [
                     "https://www.teritorio.fr/wp-content/uploads/2022/12/dax.jpg"
                 ],
+                "id": "2178998",
+                "id zone OSM": "2178998",
                 "metadata": {
-                    "id": null,
+                    "id": "2178998",
                     "category_ids": [
                         22
                     ]
