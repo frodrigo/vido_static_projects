@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "name": "Office de Tourisme du Grand Dax",
+        "category": "Projet Tourisme",
+        "description": "Réalisation de plans et cartes touristiques en 2022. Projet de carte web en 2023.",
+        "category_ids": "22",
+        "id": "2178998",
+        "id zone OSM": "2178998",
+        "image": [
+            "https://www.teritorio.fr/wp-content/uploads/2022/12/dax.jpg"
+        ],
+        "metadata": {
+            "id": "2178998",
+            "category_ids": [
+                22
+            ]
+        },
+        "editorial": {
+            "website:details": null,
+            "popup_fields": [
+                {
+                    "field": "description"
+                }
+            ],
+            "class_label": {
+                "en": "Tourism Projects",
+                "fr": "Projets tourisme"
+            }
+        },
+        "display": {
+            "icon": "teritorio teritorio-office",
+            "color_fill": "#e50980",
+            "color_line": "#e50980"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -1.057413589316989,
+            43.6759111781962
+        ]
+    }
+}
