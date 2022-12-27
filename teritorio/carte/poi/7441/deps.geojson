@@ -4,17 +4,17 @@
         {
             "type": "Feature",
             "properties": {
-                "description": "Réalisation de plans et cartes touristiques en 2022. Projet de carte web en 2023.",
-                "name": " Office de Tourisme du Grand Dax",
-                "id": "2178998",
+                "name": "ADT de l'Aube",
+                "description": "Action de formation et d'acculturation à l'écosystème OpenSreetMap.",
+                "id": "7441",
+                "id zone OSM": "7441",
                 "category": "Projet Tourisme",
-                "id zone OSM": "2178998",
-                "category_ids": "22",
                 "image": [
-                    "https://www.teritorio.fr/wp-content/uploads/2022/12/dax.jpg"
+                    "https://www.teritorio.fr/wp-content/uploads/2022/12/enseigne.jpg"
                 ],
+                "category_ids": "22",
                 "metadata": {
-                    "id": "2178998",
+                    "id": "7441",
                     "category_ids": [
                         22
                     ]
@@ -40,8 +40,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -1.057413589316989,
-                    43.6759111781962
+                    4.142561049845684,
+                    48.30537954605821
                 ]
             }
         }
