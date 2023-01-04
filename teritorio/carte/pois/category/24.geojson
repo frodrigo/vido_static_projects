@@ -139,51 +139,6 @@
                     46.67547798688528
                 ]
             }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Ville de Saint-Paul-lès-Dax",
-                "description": "Projet de carte Web. Données OSM et infos travaux. L’initiative à reçu le prix OpenData France 2019.",
-                "image": [
-                    "https://www.teritorio.fr/wp-content/uploads/2022/10/SPLIC.jpg"
-                ],
-                "id": "75876",
-                "id zone OSM": "75876",
-                "category": "Projet Ville",
-                "category_ids": "24",
-                "website": "https://www.teritorio.fr/projets/le-projet-de-cartographie-open-data-de-saint-paul-les-dax/",
-                "metadata": {
-                    "id": "75876",
-                    "category_ids": [
-                        24
-                    ]
-                },
-                "editorial": {
-                    "website:details": "https://www.teritorio.fr/projets/le-projet-de-cartographie-open-data-de-saint-paul-les-dax/",
-                    "popup_fields": [
-                        {
-                            "field": "description"
-                        }
-                    ],
-                    "class_label": {
-                        "en": "City Projects",
-                        "fr": "Projets ville"
-                    }
-                },
-                "display": {
-                    "icon": "teritorio teritorio-extra-town",
-                    "color_fill": "#006660",
-                    "color_line": "#006660"
-                }
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -1.071781676056338,
-                    43.73157273239435
-                ]
-            }
         }
     ]
 }
