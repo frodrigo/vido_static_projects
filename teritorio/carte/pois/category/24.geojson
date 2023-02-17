@@ -139,6 +139,51 @@
                     46.67547798688528
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ville de Saint-Paul-lès-Dax",
+                "description": "Carte Web dans le cadre du projet Open Data de la ville.",
+                "website": "https://www.teritorio.fr/projets/le-projet-de-cartographie-open-data-de-saint-paul-les-dax/",
+                "category": "Projet Ville",
+                "category_ids": "24",
+                "id": "75876",
+                "id zone OSM": "75876",
+                "image": [
+                    "https://www.teritorio.fr/wp-content/uploads/2023/02/new-spld.png"
+                ],
+                "metadata": {
+                    "id": "75876",
+                    "category_ids": [
+                        24
+                    ]
+                },
+                "editorial": {
+                    "website:details": "https://www.teritorio.fr/projets/le-projet-de-cartographie-open-data-de-saint-paul-les-dax/",
+                    "popup_fields": [
+                        {
+                            "field": "description"
+                        }
+                    ],
+                    "class_label": {
+                        "en": "City Projects",
+                        "fr": "Projets ville"
+                    }
+                },
+                "display": {
+                    "icon": "teritorio teritorio-extra-town",
+                    "color_fill": "#006660",
+                    "color_line": "#006660"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.071781676056338,
+                    43.73157273239435
+                ]
+            }
         }
     ]
 }
