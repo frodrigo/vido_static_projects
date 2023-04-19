@@ -5,7 +5,7 @@
             "type": "Feature",
             "properties": {
                 "name": "OTi Lacs et gorges du Verdon",
-                "description": "Formation à OpenStreetMap de l'équipe de l'OT - Projet de carte Web au démarrage.",
+                "description": "Projet de Web APP & d'accompagnement pour l'amélioration de la donnée du territoire en cours.",
                 "category": "Projet Tourisme",
                 "id zone OSM": "3443942",
                 "image": [
@@ -13,6 +13,7 @@
                 ],
                 "category_ids": "22",
                 "id": "3443942",
+                "id poi": "3443942",
                 "metadata": {
                     "id": "3443942",
                     "category_ids": [

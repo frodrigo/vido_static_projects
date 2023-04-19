@@ -93,6 +93,50 @@
                     43.48273493270734
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Projet de Web APP & d'accompagnement pour l'amélioration de la donnée du territoire en cours. Le projet est porté par l'Office de Tourisme avec le support de la communauté de commune.",
+                "id zone OSM": "6861550",
+                "name": "Entr'Allier Besbre et Loire",
+                "image": [
+                    "https://www.teritorio.fr/wp-content/uploads/2023/04/logoabl.png"
+                ],
+                "category": "Projet Ville & Tourisme",
+                "category_ids": "23",
+                "id": "6861550",
+                "metadata": {
+                    "id": "6861550",
+                    "category_ids": [
+                        23
+                    ]
+                },
+                "editorial": {
+                    "website:details": null,
+                    "popup_fields": [
+                        {
+                            "field": "description"
+                        }
+                    ],
+                    "class_label": {
+                        "en": "City & Tourism Projects",
+                        "fr": "Projets ville & tourisme"
+                    }
+                },
+                "display": {
+                    "icon": "teritorio teritorio-extra-town",
+                    "color_fill": "#2a62ac",
+                    "color_line": "#2a62ac"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.705993868502818,
+                    46.38396239081937
+                ]
+            }
         }
     ]
 }
