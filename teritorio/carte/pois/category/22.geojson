@@ -95,6 +95,50 @@
         {
             "type": "Feature",
             "properties": {
+                "id zone OSM": "3413849",
+                "description": "Projet de Web APP en cours.",
+                "name": "Office de tourisme de Grand Ville Terre et Mer",
+                "image": [
+                    "https://www.teritorio.fr/wp-content/uploads/2023/04/logoGranville.png"
+                ],
+                "id": "3413849",
+                "category_ids": "22",
+                "category": "Projet Tourisme",
+                "metadata": {
+                    "id": "3413849",
+                    "category_ids": [
+                        22
+                    ]
+                },
+                "editorial": {
+                    "website:details": null,
+                    "popup_fields": [
+                        {
+                            "field": "description"
+                        }
+                    ],
+                    "class_label": {
+                        "en": "Tourism Projects",
+                        "fr": "Projets tourisme"
+                    }
+                },
+                "display": {
+                    "icon": "teritorio teritorio-office",
+                    "color_fill": "#e50980",
+                    "color_line": "#e50980"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.5122198767103114,
+                    48.85257201235835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "id": 117282,
                 "category": "Projet Tourisme",
                 "name": "OT d’Eugenie-les-Bains",
@@ -646,50 +690,6 @@
                 "coordinates": [
                     -1.1218135805318603,
                     43.629294098845996
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "id zone OSM": "3413849",
-                "description": "Projet de Web APP en cours.",
-                "name": "Office de tourisme de Grand Ville Terre et Mer",
-                "image": [
-                    "https://www.teritorio.fr/wp-content/uploads/2023/04/logoGranville.png"
-                ],
-                "id": "3413849",
-                "category_ids": "22",
-                "category": "Projet Tourisme",
-                "metadata": {
-                    "id": "3413849",
-                    "category_ids": [
-                        22
-                    ]
-                },
-                "editorial": {
-                    "website:details": null,
-                    "popup_fields": [
-                        {
-                            "field": "description"
-                        }
-                    ],
-                    "class_label": {
-                        "en": "Tourism Projects",
-                        "fr": "Projets tourisme"
-                    }
-                },
-                "display": {
-                    "icon": "teritorio teritorio-office",
-                    "color_fill": "#e50980",
-                    "color_line": "#e50980"
-                }
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -1.5122198767103114,
-                    48.85257201235835
                 ]
             }
         }
