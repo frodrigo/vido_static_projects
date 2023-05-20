@@ -98,6 +98,51 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Lo Congres",
+                "description": "Accompagnement de l'organisme pour la contribution à OpenStreetMap en langue Occitane.",
+                "id": "10870919157",
+                "id poi": "10870919157",
+                "category_ids": "27",
+                "category": "Action",
+                "website": "https://www.teritorio.fr/projets/accompagnement-du-lo-congres/",
+                "image": [
+                    null
+                ],
+                "metadata": {
+                    "id": "10870919157",
+                    "category_ids": [
+                        27
+                    ]
+                },
+                "editorial": {
+                    "website:details": "https://www.teritorio.fr/projets/accompagnement-du-lo-congres/",
+                    "popup_fields": [
+                        {
+                            "field": "description"
+                        }
+                    ],
+                    "class_label": {
+                        "en": "Actions",
+                        "fr": "Actions"
+                    }
+                },
+                "display": {
+                    "icon": "teritorio teritorio-extra-france_services",
+                    "color_fill": "#64ad6b",
+                    "color_line": "#64ad6b"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.37318,
+                    43.296506
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "id": 71988148,
                 "category": "Action",
                 "name": "Médiathèque de Biarritz",
@@ -234,51 +279,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "TourismeLab - Nouvelle Aquitaine",
-                "description": "Teritorio fait partie de la promotion 2022 du Tourisme Lab  et participe à ce titre à ses diverses actions.",
-                "category_ids": "27",
-                "category": "Action",
-                "id poi": "10041468090",
-                "id": "10041468090",
-                "website": "https://www.tourismelab.fr/",
-                "image": [
-                    "https://www.teritorio.fr/wp-content/uploads/2022/10/tourisme-lab.png"
-                ],
-                "metadata": {
-                    "id": "10041468090",
-                    "category_ids": [
-                        27
-                    ]
-                },
-                "editorial": {
-                    "website:details": "https://www.tourismelab.fr/",
-                    "popup_fields": [
-                        {
-                            "field": "description"
-                        }
-                    ],
-                    "class_label": {
-                        "en": "Actions",
-                        "fr": "Actions"
-                    }
-                },
-                "display": {
-                    "icon": "teritorio teritorio-extra-france_services",
-                    "color_fill": "#64ad6b",
-                    "color_line": "#64ad6b"
-                }
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -0.624532,
-                    44.79391
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Rencontres ET Pau",
                 "description": "Réalisation d'une démo à l'occasion des ET de Pau.",
                 "id": "12756378",
@@ -324,24 +324,24 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Lo Congrès",
-                "description": "Accompagnement de l'organisme pour la contribution à OpenStreetMap en langue Occitane",
-                "id": "10870919157",
-                "id poi": "10870919157",
+                "name": "TourismeLab - Nouvelle Aquitaine",
+                "description": "Teritorio fait partie de la promotion 2022 du Tourisme Lab  et participe à ce titre à ses diverses actions.",
                 "category_ids": "27",
                 "category": "Action",
-                "website": "https://www.teritorio.fr/projets/accompagnement-du-lo-congres/",
+                "id poi": "10041468090",
+                "id": "10041468090",
+                "website": "https://www.tourismelab.fr/",
                 "image": [
-                    null
+                    "https://www.teritorio.fr/wp-content/uploads/2022/10/tourisme-lab.png"
                 ],
                 "metadata": {
-                    "id": "10870919157",
+                    "id": "10041468090",
                     "category_ids": [
                         27
                     ]
                 },
                 "editorial": {
-                    "website:details": "https://www.teritorio.fr/projets/accompagnement-du-lo-congres/",
+                    "website:details": "https://www.tourismelab.fr/",
                     "popup_fields": [
                         {
                             "field": "description"
@@ -361,8 +361,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -0.37318,
-                    43.296506
+                    -0.624532,
+                    44.79391
                 ]
             }
         }

@@ -1,8 +1,8 @@
 {
     "type": "Feature",
     "properties": {
-        "name": "Lo Congrès",
-        "description": "Accompagnement de l'organisme pour la contribution à OpenStreetMap en langue Occitane",
+        "name": "Lo Congres",
+        "description": "Accompagnement de l'organisme pour la contribution à OpenStreetMap en langue Occitane.",
         "id": "10870919157",
         "id poi": "10870919157",
         "category_ids": "27",

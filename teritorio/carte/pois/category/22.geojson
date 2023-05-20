@@ -466,7 +466,7 @@
         {
             "type": "Feature",
             "properties": {
-                "description": "Réalisation de plans et cartes touristiques en 2022. Projet de carte web en 2023.",
+                "description": "Réalisation de plans et cartes touristiques en 2022. Projet de carte web et actualisation des plans en 2023.",
                 "name": "OTi du Grand Dax",
                 "id": "2178998",
                 "category": "Projet Tourisme",
@@ -475,6 +475,7 @@
                 "image": [
                     "https://www.teritorio.fr/wp-content/uploads/2022/12/dax.jpg"
                 ],
+                "website": "https://www.teritorio.fr/projets/carte-web-et-edition-de-plans-touristiques-ot-du-grand-dax/",
                 "metadata": {
                     "id": "2178998",
                     "category_ids": [
@@ -482,7 +483,7 @@
                     ]
                 },
                 "editorial": {
-                    "website:details": null,
+                    "website:details": "https://www.teritorio.fr/projets/carte-web-et-edition-de-plans-touristiques-ot-du-grand-dax/",
                     "popup_fields": [
                         {
                             "field": "description"
