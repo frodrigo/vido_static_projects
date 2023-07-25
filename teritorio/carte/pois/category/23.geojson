@@ -51,7 +51,7 @@
         {
             "type": "Feature",
             "properties": {
-                "description": "Projet de Web APP & d'accompagnement pour l'amélioration de la donnée du territoire en cours. Le projet est porté par l'Office de Tourisme avec le support de la communauté de commune.",
+                "description": "Projet de Web APP & d'accompagnement pour l'amélioration de la donnée du territoire. Le projet est porté par l'Office de Tourisme avec le support de la communauté de commune.",
                 "id zone OSM": "6861550",
                 "name": "Entr'Allier Besbre et Loire",
                 "image": [
