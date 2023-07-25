@@ -1,0 +1,44 @@
+{
+    "type": "Feature",
+    "properties": {
+        "name": "OT Vallée du Kiwi",
+        "description": "Projet de Web APP & d'accompagnement pour l'amélioration de la donnée du territoire.",
+        "id": "2182721",
+        "id zone OSM": "2182721",
+        "category": "Projet Tourisme",
+        "category_ids": "22",
+        "image": [
+            "https://www.teritorio.fr/wp-content/uploads/2023/07/kiwi.png"
+        ],
+        "metadata": {
+            "id": "2182721",
+            "category_ids": [
+                22
+            ]
+        },
+        "editorial": {
+            "website:details": null,
+            "popup_fields": [
+                {
+                    "field": "description"
+                }
+            ],
+            "class_label": {
+                "en": "Tourism Projects",
+                "fr": "Projets tourisme"
+            }
+        },
+        "display": {
+            "icon": "teritorio teritorio-office",
+            "color_fill": "#e50980",
+            "color_line": "#e50980"
+        }
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -1.0785100893094275,
+            43.565001553452895
+        ]
+    }
+}
