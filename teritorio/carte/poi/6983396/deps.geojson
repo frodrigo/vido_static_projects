@@ -1,0 +1,49 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bearn des Gaves",
+                "id": "6983396",
+                "id zone OSM": "6983396",
+                "category_ids": "23",
+                "category": "Projet Ville & Tourisme",
+                "image": [
+                    "https://www.teritorio.fr/wp-content/uploads/2023/09/ccbg.png"
+                ],
+                "description": "Projet de cartographie du territoire porté par la communauté de communes avec l'OTi, en lien avec le développement économique. Projet au démarrage.",
+                "metadata": {
+                    "id": "6983396",
+                    "category_ids": [
+                        23
+                    ]
+                },
+                "editorial": {
+                    "website:details": null,
+                    "popup_fields": [
+                        {
+                            "field": "description"
+                        }
+                    ],
+                    "class_label": {
+                        "en": "City & Tourism Projects",
+                        "fr": "Projets ville & tourisme"
+                    }
+                },
+                "display": {
+                    "icon": "teritorio teritorio-extra-town",
+                    "color_fill": "#2a62ac",
+                    "color_line": "#2a62ac"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.8563477767691332,
+                    43.39735007179696
+                ]
+            }
+        }
+    ]
+}

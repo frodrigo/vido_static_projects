@@ -4,15 +4,15 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "OT de la vallée du Kiwi",
+                "name": "OT Vallée du Kiwi",
+                "description": "Projet de Web APP & d'accompagnement pour l'amélioration de la donnée du territoire.",
                 "id": "2182721",
                 "id zone OSM": "2182721",
                 "category": "Projet Tourisme",
+                "category_ids": "22",
                 "image": [
                     "https://www.teritorio.fr/wp-content/uploads/2023/07/kiwi.png"
                 ],
-                "category_ids": "22",
-                "description": "Projet de Web APP & d'accompagnement pour l'amélioration de la donnée du territoire.",
                 "metadata": {
                     "id": "2182721",
                     "category_ids": [
