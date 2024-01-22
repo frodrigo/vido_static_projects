@@ -4,17 +4,17 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "ADT de l'Aube",
-                "description": "Projet de Cartographie exploitant la donnée OSM et la donnée du SIT.  Exploitation de deux CartGguides : tourisme, attractivités. Le projet est porté par l'ADT.",
-                "id": "7441",
-                "id zone OSM": "7441",
+                "name": "ADT Haute-Vienne",
+                "description": "Projet au démarrage - 2024. Déploiement d'un CartoGuide avec de la donnée SIT et une première acculturation à OpenStreetMap - Projet piloté par la SPL Terre de Limousin",
                 "category": "Projet Tourisme",
-                "image": [
-                    "https://www.teritorio.fr/wp-content/uploads/2022/12/enseigne.jpg"
-                ],
                 "category_ids": "22",
+                "id": "7418",
+                "id zone OSM": "7418",
+                "image": [
+                    "https://www.teritorio.fr/wp-content/uploads/2024/01/visitlimousin.png"
+                ],
                 "metadata": {
-                    "id": "7441",
+                    "id": "7418",
                     "category_ids": [
                         22
                     ]
@@ -40,8 +40,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.142561049845684,
-                    48.30537954605821
+                    1.2542287954154419,
+                    45.88065194945788
                 ]
             }
         }

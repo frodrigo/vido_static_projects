@@ -5,7 +5,7 @@
             "type": "Feature",
             "properties": {
                 "name": "ADT de l'Aube",
-                "description": "Action de formation et d'acculturation à l'écosystème OpenSreetMap.",
+                "description": "Projet de Cartographie exploitant la donnée OSM et la donnée du SIT.  Exploitation de deux CartGguides : tourisme, attractivités. Le projet est porté par l'ADT.",
                 "id": "7441",
                 "id zone OSM": "7441",
                 "category": "Projet Tourisme",
@@ -42,6 +42,50 @@
                 "coordinates": [
                     4.142561049845684,
                     48.30537954605821
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ADT Haute-Vienne",
+                "description": "Projet au démarrage - 2024. Déploiement d'un CartoGuide avec de la donnée SIT et une première acculturation à OpenStreetMap - Projet piloté par la SPL Terre de Limousin",
+                "category": "Projet Tourisme",
+                "category_ids": "22",
+                "id": "7418",
+                "id zone OSM": "7418",
+                "image": [
+                    "https://www.teritorio.fr/wp-content/uploads/2024/01/visitlimousin.png"
+                ],
+                "metadata": {
+                    "id": "7418",
+                    "category_ids": [
+                        22
+                    ]
+                },
+                "editorial": {
+                    "website:details": null,
+                    "popup_fields": [
+                        {
+                            "field": "description"
+                        }
+                    ],
+                    "class_label": {
+                        "en": "Tourism Projects",
+                        "fr": "Projets tourisme"
+                    }
+                },
+                "display": {
+                    "icon": "teritorio teritorio-office",
+                    "color_fill": "#e50980",
+                    "color_line": "#e50980"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.2542287954154419,
+                    45.88065194945788
                 ]
             }
         },
