@@ -14,6 +14,7 @@
                 "category_ids": "22",
                 "id": "3443942",
                 "id poi": "3443942",
+                "website": "https://www.teritorio.fr/projets/le-cartoguide-loutil-daccueil-pour-loffice-de-tourisme-lacs-et-gorges-du-verdon/",
                 "metadata": {
                     "id": "3443942",
                     "category_ids": [
@@ -21,7 +22,7 @@
                     ]
                 },
                 "editorial": {
-                    "website:details": null,
+                    "website:details": "https://www.teritorio.fr/projets/le-cartoguide-loutil-daccueil-pour-loffice-de-tourisme-lacs-et-gorges-du-verdon/",
                     "popup_fields": [
                         {
                             "field": "description"
@@ -44,7 +45,8 @@
                     6.3639224272878705,
                     43.72509259201325
                 ]
-            }
+            },
+            "id": "M4MzQ"
         }
     ]
 }
