@@ -2,7 +2,7 @@
 
 set -e
 
-curl http://umap.openstreetmap.fr/fr/datalayer/804812/2395589/ > pois_row.geojson
+curl https://umap.openstreetmap.fr/fr/datalayer/804812/2ae9052c-898d-4057-aa65-35015b9dd365/ > pois_row.geojson
 
 cat pois_row.geojson | jq '{"type": "FeatureCollection", "features": [
     .features[] | select(.properties.category_ids != null) | .properties += {
